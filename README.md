@@ -1,6 +1,6 @@
 AgroSpace - Sistema de Monitoramento Agrícola 
 
-O **AgroSpace** é uma solução voltada para a agricultura sustentável e de precisão. Inspirada nos sistemas de monitoramento climático por satélite, nossa plataforma usa processamento de dados para auxiliar pequenos produtores a gerenciar o uso da água e monitorar os riscos climáticos que ameaçam suas plantações.
+**AgroSpace** é uma solução voltada para a agricultura sustentável e de precisão. Inspirada nos sistemas de monitoramento climático por satélite, nossa plataforma usa processamento de dados para auxiliar pequenos produtores a gerenciar o uso da água e monitorar os riscos climáticos que ameaçam suas plantações.
 
 O dispositivo atua de forma autônoma para ligar e desligar um sistema de irrigação inteligente, além de emitir alertas visuais e sonoros caso as condições ambientais atinjam níveis críticos, reduzindo o desperdício de água.
 
