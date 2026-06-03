@@ -33,16 +33,16 @@ Instruções de Execução
 Para testar o funcionamento do projeto:
 1.  Acesse o link da simulação no Tinkercad:
 2.  Clique em **Iniciar Simulação**.
-3.  Abra o **"Monitor Serial"** no canto inferior para acompanhar os relatórios de dados gerados em tempo real.
+3.  Abra o **Monitor Serial** no canto inferior para acompanhar os relatórios de dados gerados em tempo real.
 4.  Altere o potenciômetro e o sensor de temperatura para simular variações no clima e ver os LEDs e o Buzzer reagindo aos níveis críticos.
 
-Vídeo de Demonstração (Pitch)
+Vídeo de Demonstração
 O funcionamento deste circuito e a proposta de valor AgroSpace estão detalhados no vídeo:
 - Link do Vídeo no YouTube:
 
 Integrantes do Grupo
-- **Nome Completo** - RM: XXXXX
-- **Nome Completo** - RM: XXXXX
-- **Nome Completo** - RM: XXXXX
-- **Nome Completo** - RM: XXXXX
-- **Nome Completo** - RM: XXXXX
+- **Enzo Cassiano Machado** - RM: 569630
+- **José Henrique Oliveira de Lira** - RM: 569037
+- **Mateus Rodrigues Tavares** - RM: 571189
+- **Matheus Donas Vieira** - RM: 568626
+- **Rafael Rosatti de Paula** - RM: 571280
