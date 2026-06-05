@@ -31,7 +31,7 @@ Estrutura do Circuito
 
 Instruções de Execução
 Para testar o funcionamento do projeto:
-1.  Acesse o link da simulação no Tinkercad:
+1.  Acesse o link da simulação no Tinkercad: https://www.tinkercad.com/things/8ru581px7n0-gs-agrospace-edge?sharecode=izBndh8ChWiLaE20jDfXWhyiC5HjmfY6g2pIIxsbmnU
 2.  Clique em **Iniciar Simulação**.
 3.  Abra o **Monitor Serial** no canto inferior para acompanhar os relatórios de dados gerados em tempo real.
 4.  Altere o potenciômetro e o sensor de temperatura para simular variações no clima e ver os LEDs e o Buzzer reagindo aos níveis críticos.
