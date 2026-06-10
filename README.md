@@ -38,7 +38,7 @@ Para testar o funcionamento do projeto:
 
 Vídeo de Demonstração
 O funcionamento deste circuito e a proposta de valor AgroSpace estão detalhados no vídeo:
-- Link do Vídeo no YouTube:
+- Link do Vídeo no YouTube: https://youtu.be/1oafe2KUPFo
 
 Integrantes do Grupo
 - **Enzo Cassiano Machado** - RM: 569630
